@@ -1,0 +1,6 @@
+C:\Users\yobe\Documents\GitHub\GlazerCalcUltra\GlazerCalcUltra\bin\Debug\GlazerCalcUltra.exe.config
+C:\Users\yobe\Documents\GitHub\GlazerCalcUltra\GlazerCalcUltra\bin\Debug\GlazerCalcUltra.exe
+C:\Users\yobe\Documents\GitHub\GlazerCalcUltra\GlazerCalcUltra\bin\Debug\GlazerCalcUltra.pdb
+C:\Users\yobe\Documents\GitHub\GlazerCalcUltra\GlazerCalcUltra\obj\Debug\GlazerCalcUltra.csprojResolveAssemblyReference.cache
+C:\Users\yobe\Documents\GitHub\GlazerCalcUltra\GlazerCalcUltra\obj\Debug\GlazerCalcUltra.exe
+C:\Users\yobe\Documents\GitHub\GlazerCalcUltra\GlazerCalcUltra\obj\Debug\GlazerCalcUltra.pdb
